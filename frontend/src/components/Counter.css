@@ -1,0 +1,17 @@
+.counter_App {
+}
+p {
+  text-align: center;
+  font-size: 2rem;
+}
+button {
+  width: 50px;
+  height: 50px;
+  margin-right: 20px;
+}
+.reset {
+  background-color: red;
+  margin-top: 20px;
+  padding: 20px 60px;
+  text-align: center;
+}
